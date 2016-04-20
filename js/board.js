@@ -138,7 +138,7 @@ function displayPlayButtons () {
         btn.id = i;
         btn.onclick = function() { playComposition(bList[this.id]); };
         btn.src = "css/images/" + soundfiles[i].slice(0,-4) + ".png";
-        btn.classList.add("col-sm-3");
+        btn.classList.add("col-lg-3", "col-xs-6");
 
 
 
