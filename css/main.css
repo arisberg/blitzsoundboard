@@ -1,0 +1,18 @@
+.trigger {
+    height: 200px;
+}
+
+.horn{
+    background-image: url(images/horn.png);
+}
+.car{
+    background-position-x: -327px;
+    background-image: url(images/car.gif);
+}
+.nothing{
+    background-image: url(images/nothing.png);
+}
+.question{
+    background-image: url(images/question.png);
+}
+
